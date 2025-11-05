@@ -39,3 +39,6 @@ jobs:
         with:
             name: modelo-treinado
             path: |
+              model.joblib
+              metrics.json
+    
